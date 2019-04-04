@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "Querying data has never been fun",
+      "likes": 10
+    },
+    {
+        "title": "I can read from multiple data sources. Yay!",
+        "likes": 30
+      }
+  ]
+}

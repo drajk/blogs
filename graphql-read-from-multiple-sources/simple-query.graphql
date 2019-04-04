@@ -1,0 +1,6 @@
+query getPosts {
+    posts(author: "drajk") {
+        title,
+        likes,
+    }
+}
